@@ -1,0 +1,7 @@
+Hướng dẫn sử dụng:
+ - Tại thư mục cần host file chạy file server.py với python3.
+ - Để tải file chạy file thực thi với lệnh: Download <link1> <link2> ... <linkN> --output <directory> --limit <number>
+ 
+ - Để ngưng quá trình tải một file: nhập p<stt>
+ - Để tiếp tục tải: nhập c<stt>
+ - Để tải thêm file mới: nhập n<đường dẫn file>
